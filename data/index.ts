@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/masumali23020",
   },
   {
     id: 2,
     img: "/twit.svg",
+    url: "https://twitter.com/MdMasum96728413",
   },
   {
     id: 3,
     img: "/link.svg",
+    url: "https://www.linkedin.com/in/mdmasum0218/",
   },
 ];
